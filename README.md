@@ -7,4 +7,5 @@ Level 0-
   passwod: Bandit0
 
 Level 1-
-  Commands of bash
+  Commands of bash:
+    1. ls: List information about the FILEs
