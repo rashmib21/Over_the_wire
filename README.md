@@ -13,4 +13,5 @@ Level 1-
     3. cat: See the content of a file 
     4. file: file utility used to identify file types
     5. du: It is used to estimate file space usage
+    6. find: It is used to search for files and directories
     
